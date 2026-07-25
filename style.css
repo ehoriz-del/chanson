@@ -1,0 +1,281 @@
+body {
+
+margin:0;
+
+background:#f6f0e4;
+
+color:#333;
+
+font-family:'Lora', serif;
+
+}
+
+
+
+header {
+
+text-align:center;
+
+padding:60px 20px 40px;
+
+background:#fffaf0;
+
+border-bottom:1px solid #d8cdbd;
+
+}
+
+
+
+.issue {
+
+font-size:14px;
+
+letter-spacing:3px;
+
+color:#8b7355;
+
+}
+
+
+
+header h1 {
+
+font-family:'Cormorant Garamond', serif;
+
+font-size:80px;
+
+letter-spacing:5px;
+
+margin:20px 0 10px;
+
+color:#7b263a;
+
+}
+
+
+
+.subtitle {
+
+font-size:18px;
+
+letter-spacing:2px;
+
+color:#555;
+
+}
+
+
+
+#date {
+
+margin-top:25px;
+
+font-size:15px;
+
+color:#777;
+
+}
+
+
+
+main {
+
+max-width:900px;
+
+margin:60px auto;
+
+padding:20px;
+
+}
+
+
+
+.magazine {
+
+background:white;
+
+padding:60px;
+
+box-shadow:0 10px 35px rgba(0,0,0,0.08);
+
+border-top:6px solid #7b263a;
+
+}
+
+
+
+.label {
+
+letter-spacing:4px;
+
+font-size:14px;
+
+color:#7b263a;
+
+}
+
+
+
+#title {
+
+font-family:'Cormorant Garamond',serif;
+
+font-size:65px;
+
+color:#1d3557;
+
+margin:25px 0 5px;
+
+}
+
+
+
+#artist {
+
+font-size:28px;
+
+font-weight:400;
+
+}
+
+
+
+#year {
+
+color:#888;
+
+font-style:italic;
+
+}
+
+
+
+hr {
+
+margin:40px 0;
+
+border:none;
+
+border-top:1px solid #ddd;
+
+}
+
+
+
+h4 {
+
+font-family:'Cormorant Garamond',serif;
+
+font-size:34px;
+
+color:#7b263a;
+
+margin-top:40px;
+
+}
+
+
+
+p {
+
+font-size:18px;
+
+line-height:1.9;
+
+}
+
+
+
+.listen {
+
+margin-top:40px;
+
+}
+
+
+
+.listen a {
+
+display:inline-block;
+
+margin:10px 8px 0 0;
+
+padding:14px 28px;
+
+background:#1d3557;
+
+color:white;
+
+text-decoration:none;
+
+border-radius:25px;
+
+font-family:Arial,sans-serif;
+
+font-size:14px;
+
+}
+
+
+
+.listen a:hover {
+
+background:#7b263a;
+
+}
+
+
+
+.french-word {
+
+margin-top:50px;
+
+padding:25px;
+
+background:#f8f3e8;
+
+border-left:4px solid #b08d57;
+
+}
+
+
+
+footer {
+
+text-align:center;
+
+padding:40px;
+
+color:#777;
+
+font-size:14px;
+
+}
+
+
+
+@media(max-width:700px){
+
+
+header h1{
+
+font-size:50px;
+
+}
+
+
+.magazine{
+
+padding:30px;
+
+}
+
+
+#title{
+
+font-size:42px;
+
+}
+
+
+}
