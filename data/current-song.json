@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-23",
-  "index": 0,
+  "date": "2026-08-24",
+  "index": 1,
   "song": {
-    "id": 1,
-    "slug": "edith-piaf-la-vie-en-rose",
-    "title": "La Vie en rose",
-    "artist": "Édith Piaf",
-    "year": 1947,
+    "id": 2,
+    "slug": "jacques-brel-ne-me-quitte-pas",
+    "title": "Ne me quitte pas",
+    "artist": "Jacques Brel",
+    "year": 1959,
     "genre": "Chanson classique",
-    "story": "La Vie en rose invites us into a world of tenderness turning ordinary life luminous. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 1947, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Édith Piaf’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—tenderness turning ordinary life luminous—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "story": "Ne me quitte pas invites us into a world of devotion, humiliation, and theatrical intensity. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 1959, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Jacques Brel’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—devotion, humiliation, and theatrical intensity—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=%C3%89dith%20Piaf%20La%20Vie%20en%20rose%20official%20audio",
-      "spotify": "https://open.spotify.com/search/%C3%89dith%20Piaf%20La%20Vie%20en%20rose",
-      "appleMusic": "https://music.apple.com/us/search?term=%C3%89dith%20Piaf%20La%20Vie%20en%20rose"
+      "youtube": "https://www.youtube.com/results?search_query=Jacques%20Brel%20Ne%20me%20quitte%20pas%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Jacques%20Brel%20Ne%20me%20quitte%20pas",
+      "appleMusic": "https://music.apple.com/us/search?term=Jacques%20Brel%20Ne%20me%20quitte%20pas"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=%C3%89dith%20Piaf%20La%20Vie%20en%20rose&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Jacques%20Brel%20Ne%20me%20quitte%20pas&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=%C3%89dith%20Piaf%20La%20Vie%20en%20rose&type=all"
+        "url": "https://www.discogs.com/search/?q=Jacques%20Brel%20Ne%20me%20quitte%20pas&type=all"
       }
     ]
   }
