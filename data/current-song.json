@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-24",
-  "index": 1,
+  "date": "2026-08-25",
+  "index": 2,
   "song": {
-    "id": 2,
-    "slug": "jacques-brel-ne-me-quitte-pas",
-    "title": "Ne me quitte pas",
-    "artist": "Jacques Brel",
-    "year": 1959,
-    "genre": "Chanson classique",
-    "story": "Ne me quitte pas invites us into a world of devotion, humiliation, and theatrical intensity. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 1959, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Jacques Brel’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—devotion, humiliation, and theatrical intensity—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "id": 3,
+    "slug": "charles-aznavour-la-boheme",
+    "title": "La Bohème",
+    "artist": "Charles Aznavour",
+    "year": 1965,
+    "genre": "Chanson & variété",
+    "story": "La Bohème invites us into a world of memory, youth, and the vanished artists’ Montmartre. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 1965, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Charles Aznavour’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—memory, youth, and the vanished artists’ Montmartre—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=Jacques%20Brel%20Ne%20me%20quitte%20pas%20official%20audio",
-      "spotify": "https://open.spotify.com/search/Jacques%20Brel%20Ne%20me%20quitte%20pas",
-      "appleMusic": "https://music.apple.com/us/search?term=Jacques%20Brel%20Ne%20me%20quitte%20pas"
+      "youtube": "https://www.youtube.com/results?search_query=Charles%20Aznavour%20La%20Boh%C3%A8me%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Charles%20Aznavour%20La%20Boh%C3%A8me",
+      "appleMusic": "https://music.apple.com/us/search?term=Charles%20Aznavour%20La%20Boh%C3%A8me"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Jacques%20Brel%20Ne%20me%20quitte%20pas&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Charles%20Aznavour%20La%20Boh%C3%A8me&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=Jacques%20Brel%20Ne%20me%20quitte%20pas&type=all"
+        "url": "https://www.discogs.com/search/?q=Charles%20Aznavour%20La%20Boh%C3%A8me&type=all"
       }
     ]
   }
