@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-26",
-  "index": 3,
+  "date": "2026-08-27",
+  "index": 4,
   "song": {
-    "id": 4,
-    "slug": "charles-trenet-la-mer",
-    "title": "La Mer",
-    "artist": "Charles Trenet",
+    "id": 5,
+    "slug": "yves-montand-les-feuilles-mortes",
+    "title": "Les feuilles mortes",
+    "artist": "Yves Montand",
     "year": 1946,
     "genre": "Chanson classique",
-    "story": "La Mer invites us into a world of a seaside landscape transformed into musical motion. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "story": "Les feuilles mortes invites us into a world of autumn, lost love, and the persistence of memory. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
     "context": "Released in 1946, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Charles Trenet’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—a seaside landscape transformed into musical motion—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "listenFor": "Listen first to Yves Montand’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—autumn, lost love, and the persistence of memory—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=Charles%20Trenet%20La%20Mer%20official%20audio",
-      "spotify": "https://open.spotify.com/search/Charles%20Trenet%20La%20Mer",
-      "appleMusic": "https://music.apple.com/us/search?term=Charles%20Trenet%20La%20Mer"
+      "youtube": "https://www.youtube.com/results?search_query=Yves%20Montand%20Les%20feuilles%20mortes%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Yves%20Montand%20Les%20feuilles%20mortes",
+      "appleMusic": "https://music.apple.com/us/search?term=Yves%20Montand%20Les%20feuilles%20mortes"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Charles%20Trenet%20La%20Mer&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Yves%20Montand%20Les%20feuilles%20mortes&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=Charles%20Trenet%20La%20Mer&type=all"
+        "url": "https://www.discogs.com/search/?q=Yves%20Montand%20Les%20feuilles%20mortes&type=all"
       }
     ]
   }
