@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-27",
-  "index": 4,
+  "date": "2026-08-28",
+  "index": 5,
   "song": {
-    "id": 5,
-    "slug": "yves-montand-les-feuilles-mortes",
-    "title": "Les feuilles mortes",
-    "artist": "Yves Montand",
-    "year": 1946,
-    "genre": "Chanson classique",
-    "story": "Les feuilles mortes invites us into a world of autumn, lost love, and the persistence of memory. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 1946, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Yves Montand’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—autumn, lost love, and the persistence of memory—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "id": 6,
+    "slug": "edith-piaf-non-je-ne-regrette-rien",
+    "title": "Non, je ne regrette rien",
+    "artist": "Édith Piaf",
+    "year": 1960,
+    "genre": "Chanson & variété",
+    "story": "Non, je ne regrette rien invites us into a world of defiance and the emotional force of beginning again. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 1960, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Édith Piaf’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—defiance and the emotional force of beginning again—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=Yves%20Montand%20Les%20feuilles%20mortes%20official%20audio",
-      "spotify": "https://open.spotify.com/search/Yves%20Montand%20Les%20feuilles%20mortes",
-      "appleMusic": "https://music.apple.com/us/search?term=Yves%20Montand%20Les%20feuilles%20mortes"
+      "youtube": "https://www.youtube.com/results?search_query=%C3%89dith%20Piaf%20Non%2C%20je%20ne%20regrette%20rien%20official%20audio",
+      "spotify": "https://open.spotify.com/search/%C3%89dith%20Piaf%20Non%2C%20je%20ne%20regrette%20rien",
+      "appleMusic": "https://music.apple.com/us/search?term=%C3%89dith%20Piaf%20Non%2C%20je%20ne%20regrette%20rien"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Yves%20Montand%20Les%20feuilles%20mortes&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=%C3%89dith%20Piaf%20Non%2C%20je%20ne%20regrette%20rien&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=Yves%20Montand%20Les%20feuilles%20mortes&type=all"
+        "url": "https://www.discogs.com/search/?q=%C3%89dith%20Piaf%20Non%2C%20je%20ne%20regrette%20rien&type=all"
       }
     ]
   }
