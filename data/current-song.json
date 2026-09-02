@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-01",
-  "index": 9,
+  "date": "2026-09-02",
+  "index": 10,
   "song": {
-    "id": 10,
-    "slug": "juliette-greco-sous-le-ciel-de-paris",
-    "title": "Sous le ciel de Paris",
-    "artist": "Juliette Gréco",
-    "year": 1951,
+    "id": 11,
+    "slug": "yves-montand-a-paris",
+    "title": "À Paris",
+    "artist": "Yves Montand",
+    "year": 1948,
     "genre": "Chanson classique",
-    "story": "Sous le ciel de Paris invites us into a world of Paris presented as a living character. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 1951, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Juliette Gréco’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—Paris presented as a living character—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "story": "À Paris invites us into a world of street-level affection for the rhythms of the capital. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 1948, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Yves Montand’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—street-level affection for the rhythms of the capital—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=Juliette%20Gr%C3%A9co%20Sous%20le%20ciel%20de%20Paris%20official%20audio",
-      "spotify": "https://open.spotify.com/search/Juliette%20Gr%C3%A9co%20Sous%20le%20ciel%20de%20Paris",
-      "appleMusic": "https://music.apple.com/us/search?term=Juliette%20Gr%C3%A9co%20Sous%20le%20ciel%20de%20Paris"
+      "youtube": "https://www.youtube.com/results?search_query=Yves%20Montand%20%C3%80%20Paris%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Yves%20Montand%20%C3%80%20Paris",
+      "appleMusic": "https://music.apple.com/us/search?term=Yves%20Montand%20%C3%80%20Paris"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Juliette%20Gr%C3%A9co%20Sous%20le%20ciel%20de%20Paris&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Yves%20Montand%20%C3%80%20Paris&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=Juliette%20Gr%C3%A9co%20Sous%20le%20ciel%20de%20Paris&type=all"
+        "url": "https://www.discogs.com/search/?q=Yves%20Montand%20%C3%80%20Paris&type=all"
       }
     ]
   }
