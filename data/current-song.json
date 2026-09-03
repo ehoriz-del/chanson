@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-02",
-  "index": 10,
+  "date": "2026-09-03",
+  "index": 11,
   "song": {
-    "id": 11,
-    "slug": "yves-montand-a-paris",
-    "title": "À Paris",
-    "artist": "Yves Montand",
-    "year": 1948,
+    "id": 12,
+    "slug": "edith-piaf-milord",
+    "title": "Milord",
+    "artist": "Édith Piaf",
+    "year": 1959,
     "genre": "Chanson classique",
-    "story": "À Paris invites us into a world of street-level affection for the rhythms of the capital. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 1948, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Yves Montand’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—street-level affection for the rhythms of the capital—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "story": "Milord invites us into a world of compassion and resilience expressed through dramatic address. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 1959, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Édith Piaf’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—compassion and resilience expressed through dramatic address—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=Yves%20Montand%20%C3%80%20Paris%20official%20audio",
-      "spotify": "https://open.spotify.com/search/Yves%20Montand%20%C3%80%20Paris",
-      "appleMusic": "https://music.apple.com/us/search?term=Yves%20Montand%20%C3%80%20Paris"
+      "youtube": "https://www.youtube.com/results?search_query=%C3%89dith%20Piaf%20Milord%20official%20audio",
+      "spotify": "https://open.spotify.com/search/%C3%89dith%20Piaf%20Milord",
+      "appleMusic": "https://music.apple.com/us/search?term=%C3%89dith%20Piaf%20Milord"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Yves%20Montand%20%C3%80%20Paris&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=%C3%89dith%20Piaf%20Milord&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=Yves%20Montand%20%C3%80%20Paris&type=all"
+        "url": "https://www.discogs.com/search/?q=%C3%89dith%20Piaf%20Milord&type=all"
       }
     ]
   }
