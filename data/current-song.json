@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-03",
-  "index": 11,
+  "date": "2026-09-04",
+  "index": 12,
   "song": {
-    "id": 12,
-    "slug": "edith-piaf-milord",
-    "title": "Milord",
-    "artist": "Édith Piaf",
-    "year": 1959,
+    "id": 13,
+    "slug": "jacques-brel-quand-on-n-a-que-l-amour",
+    "title": "Quand on n'a que l'amour",
+    "artist": "Jacques Brel",
+    "year": 1956,
     "genre": "Chanson classique",
-    "story": "Milord invites us into a world of compassion and resilience expressed through dramatic address. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 1959, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Édith Piaf’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—compassion and resilience expressed through dramatic address—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "story": "Quand on n'a que l'amour invites us into a world of love imagined as the last meaningful possession. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 1956, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Jacques Brel’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—love imagined as the last meaningful possession—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=%C3%89dith%20Piaf%20Milord%20official%20audio",
-      "spotify": "https://open.spotify.com/search/%C3%89dith%20Piaf%20Milord",
-      "appleMusic": "https://music.apple.com/us/search?term=%C3%89dith%20Piaf%20Milord"
+      "youtube": "https://www.youtube.com/results?search_query=Jacques%20Brel%20Quand%20on%20n'a%20que%20l'amour%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Jacques%20Brel%20Quand%20on%20n'a%20que%20l'amour",
+      "appleMusic": "https://music.apple.com/us/search?term=Jacques%20Brel%20Quand%20on%20n'a%20que%20l'amour"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=%C3%89dith%20Piaf%20Milord&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Jacques%20Brel%20Quand%20on%20n'a%20que%20l'amour&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=%C3%89dith%20Piaf%20Milord&type=all"
+        "url": "https://www.discogs.com/search/?q=Jacques%20Brel%20Quand%20on%20n'a%20que%20l'amour&type=all"
       }
     ]
   }
