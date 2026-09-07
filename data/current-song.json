@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-06",
-  "index": 14,
+  "date": "2026-09-07",
+  "index": 15,
   "song": {
-    "id": 15,
-    "slug": "charles-trenet-douce-france",
-    "title": "Douce France",
-    "artist": "Charles Trenet",
-    "year": 1943,
-    "genre": "Chanson classique",
-    "story": "Douce France invites us into a world of nostalgia, landscape, and a complicated wartime afterlife. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 1943, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Charles Trenet’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—nostalgia, landscape, and a complicated wartime afterlife—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "id": 16,
+    "slug": "georges-brassens-les-copains-d-abord",
+    "title": "Les copains d'abord",
+    "artist": "Georges Brassens",
+    "year": 1964,
+    "genre": "Chanson & variété",
+    "story": "Les copains d'abord invites us into a world of friendship celebrated without sentimentality. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 1964, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Georges Brassens’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—friendship celebrated without sentimentality—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=Charles%20Trenet%20Douce%20France%20official%20audio",
-      "spotify": "https://open.spotify.com/search/Charles%20Trenet%20Douce%20France",
-      "appleMusic": "https://music.apple.com/us/search?term=Charles%20Trenet%20Douce%20France"
+      "youtube": "https://www.youtube.com/results?search_query=Georges%20Brassens%20Les%20copains%20d'abord%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Georges%20Brassens%20Les%20copains%20d'abord",
+      "appleMusic": "https://music.apple.com/us/search?term=Georges%20Brassens%20Les%20copains%20d'abord"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Charles%20Trenet%20Douce%20France&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Georges%20Brassens%20Les%20copains%20d'abord&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=Charles%20Trenet%20Douce%20France&type=all"
+        "url": "https://www.discogs.com/search/?q=Georges%20Brassens%20Les%20copains%20d'abord&type=all"
       }
     ]
   }
