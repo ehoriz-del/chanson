@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-07",
-  "index": 15,
+  "date": "2026-09-08",
+  "index": 16,
   "song": {
-    "id": 16,
-    "slug": "georges-brassens-les-copains-d-abord",
-    "title": "Les copains d'abord",
-    "artist": "Georges Brassens",
-    "year": 1964,
+    "id": 17,
+    "slug": "juliette-greco-deshabillez-moi",
+    "title": "Déshabillez-moi",
+    "artist": "Juliette Gréco",
+    "year": 1967,
     "genre": "Chanson & variété",
-    "story": "Les copains d'abord invites us into a world of friendship celebrated without sentimentality. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 1964, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Georges Brassens’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—friendship celebrated without sentimentality—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "story": "Déshabillez-moi invites us into a world of controlled provocation and theatrical sophistication. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 1967, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Juliette Gréco’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—controlled provocation and theatrical sophistication—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=Georges%20Brassens%20Les%20copains%20d'abord%20official%20audio",
-      "spotify": "https://open.spotify.com/search/Georges%20Brassens%20Les%20copains%20d'abord",
-      "appleMusic": "https://music.apple.com/us/search?term=Georges%20Brassens%20Les%20copains%20d'abord"
+      "youtube": "https://www.youtube.com/results?search_query=Juliette%20Gr%C3%A9co%20D%C3%A9shabillez-moi%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Juliette%20Gr%C3%A9co%20D%C3%A9shabillez-moi",
+      "appleMusic": "https://music.apple.com/us/search?term=Juliette%20Gr%C3%A9co%20D%C3%A9shabillez-moi"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Georges%20Brassens%20Les%20copains%20d'abord&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Juliette%20Gr%C3%A9co%20D%C3%A9shabillez-moi&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=Georges%20Brassens%20Les%20copains%20d'abord&type=all"
+        "url": "https://www.discogs.com/search/?q=Juliette%20Gr%C3%A9co%20D%C3%A9shabillez-moi&type=all"
       }
     ]
   }
