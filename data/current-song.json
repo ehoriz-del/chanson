@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-14",
-  "index": 22,
+  "date": "2026-09-15",
+  "index": 23,
   "song": {
-    "id": 23,
-    "slug": "georges-brassens-la-mauvaise-reputation",
-    "title": "La mauvaise réputation",
-    "artist": "Georges Brassens",
-    "year": 1952,
+    "id": 24,
+    "slug": "leo-ferre-paris-canaille",
+    "title": "Paris canaille",
+    "artist": "Léo Ferré",
+    "year": 1953,
     "genre": "Chanson classique",
-    "story": "La mauvaise réputation invites us into a world of individual freedom set against village conformity. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 1952, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Georges Brassens’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—individual freedom set against village conformity—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "story": "Paris canaille invites us into a world of the capital’s roughness embraced with affection. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 1953, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Léo Ferré’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—the capital’s roughness embraced with affection—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=Georges%20Brassens%20La%20mauvaise%20r%C3%A9putation%20official%20audio",
-      "spotify": "https://open.spotify.com/search/Georges%20Brassens%20La%20mauvaise%20r%C3%A9putation",
-      "appleMusic": "https://music.apple.com/us/search?term=Georges%20Brassens%20La%20mauvaise%20r%C3%A9putation"
+      "youtube": "https://www.youtube.com/results?search_query=L%C3%A9o%20Ferr%C3%A9%20Paris%20canaille%20official%20audio",
+      "spotify": "https://open.spotify.com/search/L%C3%A9o%20Ferr%C3%A9%20Paris%20canaille",
+      "appleMusic": "https://music.apple.com/us/search?term=L%C3%A9o%20Ferr%C3%A9%20Paris%20canaille"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Georges%20Brassens%20La%20mauvaise%20r%C3%A9putation&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=L%C3%A9o%20Ferr%C3%A9%20Paris%20canaille&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=Georges%20Brassens%20La%20mauvaise%20r%C3%A9putation&type=all"
+        "url": "https://www.discogs.com/search/?q=L%C3%A9o%20Ferr%C3%A9%20Paris%20canaille&type=all"
       }
     ]
   }
