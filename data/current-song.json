@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-16",
-  "index": 24,
+  "date": "2026-09-17",
+  "index": 25,
   "song": {
-    "id": 25,
-    "slug": "juliette-greco-jolie-mome",
-    "title": "Jolie môme",
-    "artist": "Juliette Gréco",
-    "year": 1961,
-    "genre": "Chanson & variété",
-    "story": "Jolie môme invites us into a world of bohemian allure delivered with smoky restraint. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 1961, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Juliette Gréco’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—bohemian allure delivered with smoky restraint—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "id": 26,
+    "slug": "yves-montand-les-grands-boulevards",
+    "title": "Les grands boulevards",
+    "artist": "Yves Montand",
+    "year": 1951,
+    "genre": "Chanson classique",
+    "story": "Les grands boulevards invites us into a world of urban spectacle and popular Parisian pleasure. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 1951, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Yves Montand’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—urban spectacle and popular Parisian pleasure—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=Juliette%20Gr%C3%A9co%20Jolie%20m%C3%B4me%20official%20audio",
-      "spotify": "https://open.spotify.com/search/Juliette%20Gr%C3%A9co%20Jolie%20m%C3%B4me",
-      "appleMusic": "https://music.apple.com/us/search?term=Juliette%20Gr%C3%A9co%20Jolie%20m%C3%B4me"
+      "youtube": "https://www.youtube.com/results?search_query=Yves%20Montand%20Les%20grands%20boulevards%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Yves%20Montand%20Les%20grands%20boulevards",
+      "appleMusic": "https://music.apple.com/us/search?term=Yves%20Montand%20Les%20grands%20boulevards"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Juliette%20Gr%C3%A9co%20Jolie%20m%C3%B4me&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Yves%20Montand%20Les%20grands%20boulevards&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=Juliette%20Gr%C3%A9co%20Jolie%20m%C3%B4me&type=all"
+        "url": "https://www.discogs.com/search/?q=Yves%20Montand%20Les%20grands%20boulevards&type=all"
       }
     ]
   }
