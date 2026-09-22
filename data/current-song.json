@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-21",
-  "index": 29,
+  "date": "2026-09-22",
+  "index": 30,
   "song": {
-    "id": 30,
-    "slug": "charles-trenet-nationale-7",
-    "title": "Nationale 7",
-    "artist": "Charles Trenet",
-    "year": 1955,
+    "id": 31,
+    "slug": "georges-brassens-chanson-pour-l-auvergnat",
+    "title": "Chanson pour l'Auvergnat",
+    "artist": "Georges Brassens",
+    "year": 1954,
     "genre": "Chanson classique",
-    "story": "Nationale 7 invites us into a world of the holiday road recast as a symbol of freedom. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 1955, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Charles Trenet’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—the holiday road recast as a symbol of freedom—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "story": "Chanson pour l'Auvergnat invites us into a world of gratitude offered to quiet acts of kindness. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 1954, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Georges Brassens’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—gratitude offered to quiet acts of kindness—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=Charles%20Trenet%20Nationale%207%20official%20audio",
-      "spotify": "https://open.spotify.com/search/Charles%20Trenet%20Nationale%207",
-      "appleMusic": "https://music.apple.com/us/search?term=Charles%20Trenet%20Nationale%207"
+      "youtube": "https://www.youtube.com/results?search_query=Georges%20Brassens%20Chanson%20pour%20l'Auvergnat%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Georges%20Brassens%20Chanson%20pour%20l'Auvergnat",
+      "appleMusic": "https://music.apple.com/us/search?term=Georges%20Brassens%20Chanson%20pour%20l'Auvergnat"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Charles%20Trenet%20Nationale%207&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Georges%20Brassens%20Chanson%20pour%20l'Auvergnat&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=Charles%20Trenet%20Nationale%207&type=all"
+        "url": "https://www.discogs.com/search/?q=Georges%20Brassens%20Chanson%20pour%20l'Auvergnat&type=all"
       }
     ]
   }
