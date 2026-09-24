@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-23",
-  "index": 31,
+  "date": "2026-09-24",
+  "index": 32,
   "song": {
-    "id": 32,
-    "slug": "leo-ferre-avec-le-temps",
-    "title": "Avec le temps",
-    "artist": "Léo Ferré",
-    "year": 1970,
+    "id": 33,
+    "slug": "serge-gainsbourg-la-javanaise",
+    "title": "La Javanaise",
+    "artist": "Serge Gainsbourg",
+    "year": 1963,
     "genre": "Chanson & variété",
-    "story": "Avec le temps invites us into a world of love’s erosion observed with devastating calm. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 1970, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Léo Ferré’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—love’s erosion observed with devastating calm—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "story": "La Javanaise invites us into a world of a love song built around elegant verbal play. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 1963, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Serge Gainsbourg’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—a love song built around elegant verbal play—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=L%C3%A9o%20Ferr%C3%A9%20Avec%20le%20temps%20official%20audio",
-      "spotify": "https://open.spotify.com/search/L%C3%A9o%20Ferr%C3%A9%20Avec%20le%20temps",
-      "appleMusic": "https://music.apple.com/us/search?term=L%C3%A9o%20Ferr%C3%A9%20Avec%20le%20temps"
+      "youtube": "https://www.youtube.com/results?search_query=Serge%20Gainsbourg%20La%20Javanaise%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Serge%20Gainsbourg%20La%20Javanaise",
+      "appleMusic": "https://music.apple.com/us/search?term=Serge%20Gainsbourg%20La%20Javanaise"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=L%C3%A9o%20Ferr%C3%A9%20Avec%20le%20temps&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Serge%20Gainsbourg%20La%20Javanaise&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=L%C3%A9o%20Ferr%C3%A9%20Avec%20le%20temps&type=all"
+        "url": "https://www.discogs.com/search/?q=Serge%20Gainsbourg%20La%20Javanaise&type=all"
       }
     ]
   }
