@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-25",
-  "index": 33,
+  "date": "2026-09-26",
+  "index": 34,
   "song": {
-    "id": 34,
-    "slug": "francoise-hardy-tous-les-garcons-et-les-filles",
-    "title": "Tous les garçons et les filles",
-    "artist": "Françoise Hardy",
-    "year": 1962,
+    "id": 35,
+    "slug": "barbara-l-aigle-noir",
+    "title": "L'aigle noir",
+    "artist": "Barbara",
+    "year": 1970,
     "genre": "Chanson & variété",
-    "story": "Tous les garçons et les filles invites us into a world of adolescent solitude in understated pop form. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 1962, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Françoise Hardy’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—adolescent solitude in understated pop form—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "story": "L'aigle noir invites us into a world of a mysterious vision carried by piano and crescendo. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 1970, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Barbara’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—a mysterious vision carried by piano and crescendo—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=Fran%C3%A7oise%20Hardy%20Tous%20les%20gar%C3%A7ons%20et%20les%20filles%20official%20audio",
-      "spotify": "https://open.spotify.com/search/Fran%C3%A7oise%20Hardy%20Tous%20les%20gar%C3%A7ons%20et%20les%20filles",
-      "appleMusic": "https://music.apple.com/us/search?term=Fran%C3%A7oise%20Hardy%20Tous%20les%20gar%C3%A7ons%20et%20les%20filles"
+      "youtube": "https://www.youtube.com/results?search_query=Barbara%20L'aigle%20noir%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Barbara%20L'aigle%20noir",
+      "appleMusic": "https://music.apple.com/us/search?term=Barbara%20L'aigle%20noir"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Fran%C3%A7oise%20Hardy%20Tous%20les%20gar%C3%A7ons%20et%20les%20filles&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Barbara%20L'aigle%20noir&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=Fran%C3%A7oise%20Hardy%20Tous%20les%20gar%C3%A7ons%20et%20les%20filles&type=all"
+        "url": "https://www.discogs.com/search/?q=Barbara%20L'aigle%20noir&type=all"
       }
     ]
   }
