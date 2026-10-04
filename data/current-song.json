@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-03",
-  "index": 41,
+  "date": "2026-10-04",
+  "index": 42,
   "song": {
-    "id": 42,
-    "slug": "dalida-alain-delon-paroles-paroles",
-    "title": "Paroles, paroles",
-    "artist": "Dalida & Alain Delon",
-    "year": 1973,
+    "id": 43,
+    "slug": "joe-dassin-l-ete-indien",
+    "title": "L'été indien",
+    "artist": "Joe Dassin",
+    "year": 1975,
     "genre": "Chanson & variété",
-    "story": "Paroles, paroles invites us into a world of romantic promises exposed as empty performance. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 1973, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Dalida & Alain Delon’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—romantic promises exposed as empty performance—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "story": "L'été indien invites us into a world of seasonal nostalgia narrated like a private postcard. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 1975, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Joe Dassin’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—seasonal nostalgia narrated like a private postcard—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=Dalida%20%26%20Alain%20Delon%20Paroles%2C%20paroles%20official%20audio",
-      "spotify": "https://open.spotify.com/search/Dalida%20%26%20Alain%20Delon%20Paroles%2C%20paroles",
-      "appleMusic": "https://music.apple.com/us/search?term=Dalida%20%26%20Alain%20Delon%20Paroles%2C%20paroles"
+      "youtube": "https://www.youtube.com/results?search_query=Joe%20Dassin%20L'%C3%A9t%C3%A9%20indien%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Joe%20Dassin%20L'%C3%A9t%C3%A9%20indien",
+      "appleMusic": "https://music.apple.com/us/search?term=Joe%20Dassin%20L'%C3%A9t%C3%A9%20indien"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Dalida%20%26%20Alain%20Delon%20Paroles%2C%20paroles&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Joe%20Dassin%20L'%C3%A9t%C3%A9%20indien&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=Dalida%20%26%20Alain%20Delon%20Paroles%2C%20paroles&type=all"
+        "url": "https://www.discogs.com/search/?q=Joe%20Dassin%20L'%C3%A9t%C3%A9%20indien&type=all"
       }
     ]
   }
