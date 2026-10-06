@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-05",
-  "index": 43,
+  "date": "2026-10-06",
+  "index": 44,
   "song": {
-    "id": 44,
-    "slug": "france-gall-ella-elle-l-a",
-    "title": "Ella, elle l'a",
-    "artist": "France Gall",
-    "year": 1987,
-    "genre": "Chanson pop",
-    "story": "Ella, elle l'a invites us into a world of a tribute to Ella Fitzgerald and indefinable charisma. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 1987, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to France Gall’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—a tribute to Ella Fitzgerald and indefinable charisma—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "id": 45,
+    "slug": "serge-gainsbourg-initials-b-b",
+    "title": "Initials B.B.",
+    "artist": "Serge Gainsbourg",
+    "year": 1968,
+    "genre": "Chanson & variété",
+    "story": "Initials B.B. invites us into a world of cinematic obsession wrapped in orchestral grandeur. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 1968, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Serge Gainsbourg’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—cinematic obsession wrapped in orchestral grandeur—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=France%20Gall%20Ella%2C%20elle%20l'a%20official%20audio",
-      "spotify": "https://open.spotify.com/search/France%20Gall%20Ella%2C%20elle%20l'a",
-      "appleMusic": "https://music.apple.com/us/search?term=France%20Gall%20Ella%2C%20elle%20l'a"
+      "youtube": "https://www.youtube.com/results?search_query=Serge%20Gainsbourg%20Initials%20B.B.%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Serge%20Gainsbourg%20Initials%20B.B.",
+      "appleMusic": "https://music.apple.com/us/search?term=Serge%20Gainsbourg%20Initials%20B.B."
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=France%20Gall%20Ella%2C%20elle%20l'a&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Serge%20Gainsbourg%20Initials%20B.B.&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=France%20Gall%20Ella%2C%20elle%20l'a&type=all"
+        "url": "https://www.discogs.com/search/?q=Serge%20Gainsbourg%20Initials%20B.B.&type=all"
       }
     ]
   }
