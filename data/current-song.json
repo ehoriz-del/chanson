@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-07",
-  "index": 45,
+  "date": "2026-10-08",
+  "index": 46,
   "song": {
-    "id": 46,
-    "slug": "francoise-hardy-comment-te-dire-adieu",
-    "title": "Comment te dire adieu",
-    "artist": "Françoise Hardy",
-    "year": 1968,
+    "id": 47,
+    "slug": "barbara-dis-quand-reviendras-tu",
+    "title": "Dis, quand reviendras-tu ?",
+    "artist": "Barbara",
+    "year": 1962,
     "genre": "Chanson & variété",
-    "story": "Comment te dire adieu invites us into a world of emotional restraint meeting intricate rhyme. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 1968, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Françoise Hardy’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—emotional restraint meeting intricate rhyme—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "story": "Dis, quand reviendras-tu ? invites us into a world of waiting expressed with dignity rather than melodrama. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 1962, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Barbara’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—waiting expressed with dignity rather than melodrama—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=Fran%C3%A7oise%20Hardy%20Comment%20te%20dire%20adieu%20official%20audio",
-      "spotify": "https://open.spotify.com/search/Fran%C3%A7oise%20Hardy%20Comment%20te%20dire%20adieu",
-      "appleMusic": "https://music.apple.com/us/search?term=Fran%C3%A7oise%20Hardy%20Comment%20te%20dire%20adieu"
+      "youtube": "https://www.youtube.com/results?search_query=Barbara%20Dis%2C%20quand%20reviendras-tu%20%3F%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Barbara%20Dis%2C%20quand%20reviendras-tu%20%3F",
+      "appleMusic": "https://music.apple.com/us/search?term=Barbara%20Dis%2C%20quand%20reviendras-tu%20%3F"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Fran%C3%A7oise%20Hardy%20Comment%20te%20dire%20adieu&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Barbara%20Dis%2C%20quand%20reviendras-tu%20%3F&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=Fran%C3%A7oise%20Hardy%20Comment%20te%20dire%20adieu&type=all"
+        "url": "https://www.discogs.com/search/?q=Barbara%20Dis%2C%20quand%20reviendras-tu%20%3F&type=all"
       }
     ]
   }
