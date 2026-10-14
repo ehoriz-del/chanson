@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-13",
-  "index": 51,
+  "date": "2026-10-14",
+  "index": 52,
   "song": {
-    "id": 52,
-    "slug": "francoise-hardy-message-personnel",
-    "title": "Message personnel",
-    "artist": "Françoise Hardy",
-    "year": 1973,
+    "id": 53,
+    "slug": "barbara-gottingen",
+    "title": "Göttingen",
+    "artist": "Barbara",
+    "year": 1964,
     "genre": "Chanson & variété",
-    "story": "Message personnel invites us into a world of spoken confession opening into a soaring refrain. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 1973, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Françoise Hardy’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—spoken confession opening into a soaring refrain—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "story": "Göttingen invites us into a world of French-German reconciliation grounded in human detail. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 1964, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Barbara’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—French-German reconciliation grounded in human detail—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=Fran%C3%A7oise%20Hardy%20Message%20personnel%20official%20audio",
-      "spotify": "https://open.spotify.com/search/Fran%C3%A7oise%20Hardy%20Message%20personnel",
-      "appleMusic": "https://music.apple.com/us/search?term=Fran%C3%A7oise%20Hardy%20Message%20personnel"
+      "youtube": "https://www.youtube.com/results?search_query=Barbara%20G%C3%B6ttingen%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Barbara%20G%C3%B6ttingen",
+      "appleMusic": "https://music.apple.com/us/search?term=Barbara%20G%C3%B6ttingen"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Fran%C3%A7oise%20Hardy%20Message%20personnel&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Barbara%20G%C3%B6ttingen&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=Fran%C3%A7oise%20Hardy%20Message%20personnel&type=all"
+        "url": "https://www.discogs.com/search/?q=Barbara%20G%C3%B6ttingen&type=all"
       }
     ]
   }
