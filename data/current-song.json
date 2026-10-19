@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-18",
-  "index": 56,
+  "date": "2026-10-19",
+  "index": 57,
   "song": {
-    "id": 57,
-    "slug": "michel-sardou-la-maladie-d-amour",
-    "title": "La maladie d'amour",
-    "artist": "Michel Sardou",
-    "year": 1973,
-    "genre": "Chanson & variété",
-    "story": "La maladie d'amour invites us into a world of love treated as a timeless shared condition. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 1973, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Michel Sardou’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—love treated as a timeless shared condition—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "id": 58,
+    "slug": "michel-berger-le-paradis-blanc",
+    "title": "Le paradis blanc",
+    "artist": "Michel Berger",
+    "year": 1990,
+    "genre": "Chanson pop",
+    "story": "Le paradis blanc invites us into a world of escape toward a pristine imagined refuge. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 1990, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Michel Berger’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—escape toward a pristine imagined refuge—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=Michel%20Sardou%20La%20maladie%20d'amour%20official%20audio",
-      "spotify": "https://open.spotify.com/search/Michel%20Sardou%20La%20maladie%20d'amour",
-      "appleMusic": "https://music.apple.com/us/search?term=Michel%20Sardou%20La%20maladie%20d'amour"
+      "youtube": "https://www.youtube.com/results?search_query=Michel%20Berger%20Le%20paradis%20blanc%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Michel%20Berger%20Le%20paradis%20blanc",
+      "appleMusic": "https://music.apple.com/us/search?term=Michel%20Berger%20Le%20paradis%20blanc"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Michel%20Sardou%20La%20maladie%20d'amour&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Michel%20Berger%20Le%20paradis%20blanc&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=Michel%20Sardou%20La%20maladie%20d'amour&type=all"
+        "url": "https://www.discogs.com/search/?q=Michel%20Berger%20Le%20paradis%20blanc&type=all"
       }
     ]
   }
