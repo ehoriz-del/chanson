@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-19",
-  "index": 57,
+  "date": "2026-10-20",
+  "index": 58,
   "song": {
-    "id": 58,
-    "slug": "michel-berger-le-paradis-blanc",
-    "title": "Le paradis blanc",
-    "artist": "Michel Berger",
-    "year": 1990,
+    "id": 59,
+    "slug": "alain-souchon-foule-sentimentale",
+    "title": "Foule sentimentale",
+    "artist": "Alain Souchon",
+    "year": 1993,
     "genre": "Chanson pop",
-    "story": "Le paradis blanc invites us into a world of escape toward a pristine imagined refuge. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 1990, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Michel Berger’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—escape toward a pristine imagined refuge—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "story": "Foule sentimentale invites us into a world of consumer desire questioned with gentle irony. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 1993, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Alain Souchon’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—consumer desire questioned with gentle irony—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=Michel%20Berger%20Le%20paradis%20blanc%20official%20audio",
-      "spotify": "https://open.spotify.com/search/Michel%20Berger%20Le%20paradis%20blanc",
-      "appleMusic": "https://music.apple.com/us/search?term=Michel%20Berger%20Le%20paradis%20blanc"
+      "youtube": "https://www.youtube.com/results?search_query=Alain%20Souchon%20Foule%20sentimentale%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Alain%20Souchon%20Foule%20sentimentale",
+      "appleMusic": "https://music.apple.com/us/search?term=Alain%20Souchon%20Foule%20sentimentale"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Michel%20Berger%20Le%20paradis%20blanc&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Alain%20Souchon%20Foule%20sentimentale&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=Michel%20Berger%20Le%20paradis%20blanc&type=all"
+        "url": "https://www.discogs.com/search/?q=Alain%20Souchon%20Foule%20sentimentale&type=all"
       }
     ]
   }
