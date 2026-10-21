@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-20",
-  "index": 58,
+  "date": "2026-10-21",
+  "index": 59,
   "song": {
-    "id": 59,
-    "slug": "alain-souchon-foule-sentimentale",
-    "title": "Foule sentimentale",
-    "artist": "Alain Souchon",
-    "year": 1993,
-    "genre": "Chanson pop",
-    "story": "Foule sentimentale invites us into a world of consumer desire questioned with gentle irony. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 1993, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Alain Souchon’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—consumer desire questioned with gentle irony—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "id": 60,
+    "slug": "veronique-sanson-amoureuse",
+    "title": "Amoureuse",
+    "artist": "Véronique Sanson",
+    "year": 1972,
+    "genre": "Chanson & variété",
+    "story": "Amoureuse invites us into a world of desire and apprehension moving through complex harmony. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 1972, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Véronique Sanson’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—desire and apprehension moving through complex harmony—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=Alain%20Souchon%20Foule%20sentimentale%20official%20audio",
-      "spotify": "https://open.spotify.com/search/Alain%20Souchon%20Foule%20sentimentale",
-      "appleMusic": "https://music.apple.com/us/search?term=Alain%20Souchon%20Foule%20sentimentale"
+      "youtube": "https://www.youtube.com/results?search_query=V%C3%A9ronique%20Sanson%20Amoureuse%20official%20audio",
+      "spotify": "https://open.spotify.com/search/V%C3%A9ronique%20Sanson%20Amoureuse",
+      "appleMusic": "https://music.apple.com/us/search?term=V%C3%A9ronique%20Sanson%20Amoureuse"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Alain%20Souchon%20Foule%20sentimentale&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=V%C3%A9ronique%20Sanson%20Amoureuse&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=Alain%20Souchon%20Foule%20sentimentale&type=all"
+        "url": "https://www.discogs.com/search/?q=V%C3%A9ronique%20Sanson%20Amoureuse&type=all"
       }
     ]
   }
