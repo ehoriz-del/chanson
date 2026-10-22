@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-21",
-  "index": 59,
+  "date": "2026-10-22",
+  "index": 60,
   "song": {
-    "id": 60,
-    "slug": "veronique-sanson-amoureuse",
-    "title": "Amoureuse",
-    "artist": "Véronique Sanson",
-    "year": 1972,
+    "id": 61,
+    "slug": "francis-cabrel-je-l-aime-a-mourir",
+    "title": "Je l'aime à mourir",
+    "artist": "Francis Cabrel",
+    "year": 1979,
     "genre": "Chanson & variété",
-    "story": "Amoureuse invites us into a world of desire and apprehension moving through complex harmony. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 1972, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Véronique Sanson’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—desire and apprehension moving through complex harmony—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "story": "Je l'aime à mourir invites us into a world of devotion conveyed through intimate acoustic imagery. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 1979, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Francis Cabrel’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—devotion conveyed through intimate acoustic imagery—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=V%C3%A9ronique%20Sanson%20Amoureuse%20official%20audio",
-      "spotify": "https://open.spotify.com/search/V%C3%A9ronique%20Sanson%20Amoureuse",
-      "appleMusic": "https://music.apple.com/us/search?term=V%C3%A9ronique%20Sanson%20Amoureuse"
+      "youtube": "https://www.youtube.com/results?search_query=Francis%20Cabrel%20Je%20l'aime%20%C3%A0%20mourir%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Francis%20Cabrel%20Je%20l'aime%20%C3%A0%20mourir",
+      "appleMusic": "https://music.apple.com/us/search?term=Francis%20Cabrel%20Je%20l'aime%20%C3%A0%20mourir"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=V%C3%A9ronique%20Sanson%20Amoureuse&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Francis%20Cabrel%20Je%20l'aime%20%C3%A0%20mourir&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=V%C3%A9ronique%20Sanson%20Amoureuse&type=all"
+        "url": "https://www.discogs.com/search/?q=Francis%20Cabrel%20Je%20l'aime%20%C3%A0%20mourir&type=all"
       }
     ]
   }
