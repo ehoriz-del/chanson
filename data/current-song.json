@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-23",
-  "index": 61,
+  "date": "2026-10-24",
+  "index": 62,
   "song": {
-    "id": 62,
-    "slug": "jean-jacques-goldman-il-suffira-d-un-signe",
-    "title": "Il suffira d'un signe",
-    "artist": "Jean-Jacques Goldman",
-    "year": 1981,
+    "id": 63,
+    "slug": "renaud-mistral-gagnant",
+    "title": "Mistral gagnant",
+    "artist": "Renaud",
+    "year": 1985,
     "genre": "Chanson pop",
-    "story": "Il suffira d'un signe invites us into a world of hope and change propelled by rock momentum. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 1981, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Jean-Jacques Goldman’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—hope and change propelled by rock momentum—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "story": "Mistral gagnant invites us into a world of parenthood, childhood sweets, and time passing. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 1985, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Renaud’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—parenthood, childhood sweets, and time passing—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=Jean-Jacques%20Goldman%20Il%20suffira%20d'un%20signe%20official%20audio",
-      "spotify": "https://open.spotify.com/search/Jean-Jacques%20Goldman%20Il%20suffira%20d'un%20signe",
-      "appleMusic": "https://music.apple.com/us/search?term=Jean-Jacques%20Goldman%20Il%20suffira%20d'un%20signe"
+      "youtube": "https://www.youtube.com/results?search_query=Renaud%20Mistral%20gagnant%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Renaud%20Mistral%20gagnant",
+      "appleMusic": "https://music.apple.com/us/search?term=Renaud%20Mistral%20gagnant"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Jean-Jacques%20Goldman%20Il%20suffira%20d'un%20signe&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Renaud%20Mistral%20gagnant&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=Jean-Jacques%20Goldman%20Il%20suffira%20d'un%20signe&type=all"
+        "url": "https://www.discogs.com/search/?q=Renaud%20Mistral%20gagnant&type=all"
       }
     ]
   }
