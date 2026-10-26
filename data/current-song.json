@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-25",
-  "index": 63,
+  "date": "2026-10-26",
+  "index": 64,
   "song": {
-    "id": 64,
-    "slug": "mylene-farmer-desenchantee",
-    "title": "Désenchantée",
-    "artist": "Mylène Farmer",
-    "year": 1991,
+    "id": 65,
+    "slug": "vanessa-paradis-joe-le-taxi",
+    "title": "Joe le taxi",
+    "artist": "Vanessa Paradis",
+    "year": 1987,
     "genre": "Chanson pop",
-    "story": "Désenchantée invites us into a world of generational disillusionment on an anthemic scale. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 1991, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Mylène Farmer’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—generational disillusionment on an anthemic scale—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "story": "Joe le taxi invites us into a world of a nocturnal driver sketched through rhythm and detail. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 1987, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Vanessa Paradis’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—a nocturnal driver sketched through rhythm and detail—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=Myl%C3%A8ne%20Farmer%20D%C3%A9senchant%C3%A9e%20official%20audio",
-      "spotify": "https://open.spotify.com/search/Myl%C3%A8ne%20Farmer%20D%C3%A9senchant%C3%A9e",
-      "appleMusic": "https://music.apple.com/us/search?term=Myl%C3%A8ne%20Farmer%20D%C3%A9senchant%C3%A9e"
+      "youtube": "https://www.youtube.com/results?search_query=Vanessa%20Paradis%20Joe%20le%20taxi%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Vanessa%20Paradis%20Joe%20le%20taxi",
+      "appleMusic": "https://music.apple.com/us/search?term=Vanessa%20Paradis%20Joe%20le%20taxi"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Myl%C3%A8ne%20Farmer%20D%C3%A9senchant%C3%A9e&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Vanessa%20Paradis%20Joe%20le%20taxi&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=Myl%C3%A8ne%20Farmer%20D%C3%A9senchant%C3%A9e&type=all"
+        "url": "https://www.discogs.com/search/?q=Vanessa%20Paradis%20Joe%20le%20taxi&type=all"
       }
     ]
   }
