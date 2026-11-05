@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-04",
-  "index": 73,
+  "date": "2026-11-05",
+  "index": 74,
   "song": {
-    "id": 74,
-    "slug": "vanessa-paradis-tandem",
-    "title": "Tandem",
-    "artist": "Vanessa Paradis",
-    "year": 1990,
+    "id": 75,
+    "slug": "francis-cabrel-la-corrida",
+    "title": "La corrida",
+    "artist": "Francis Cabrel",
+    "year": 1994,
     "genre": "Chanson pop",
-    "story": "Tandem invites us into a world of a relationship examined through cinematic wordplay. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 1990, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Vanessa Paradis’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—a relationship examined through cinematic wordplay—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "story": "La corrida invites us into a world of bullfighting narrated from an unexpected viewpoint. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 1994, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Francis Cabrel’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—bullfighting narrated from an unexpected viewpoint—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=Vanessa%20Paradis%20Tandem%20official%20audio",
-      "spotify": "https://open.spotify.com/search/Vanessa%20Paradis%20Tandem",
-      "appleMusic": "https://music.apple.com/us/search?term=Vanessa%20Paradis%20Tandem"
+      "youtube": "https://www.youtube.com/results?search_query=Francis%20Cabrel%20La%20corrida%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Francis%20Cabrel%20La%20corrida",
+      "appleMusic": "https://music.apple.com/us/search?term=Francis%20Cabrel%20La%20corrida"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Vanessa%20Paradis%20Tandem&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Francis%20Cabrel%20La%20corrida&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=Vanessa%20Paradis%20Tandem&type=all"
+        "url": "https://www.discogs.com/search/?q=Francis%20Cabrel%20La%20corrida&type=all"
       }
     ]
   }
