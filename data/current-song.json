@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-10",
-  "index": 79,
+  "date": "2026-11-11",
+  "index": 80,
   "song": {
-    "id": 80,
-    "slug": "claude-francois-comme-d-habitude",
-    "title": "Comme d'habitude",
-    "artist": "Claude François",
-    "year": 1967,
+    "id": 81,
+    "slug": "il-etait-une-fois-j-ai-encore-reve-d-elle",
+    "title": "J'ai encore rêvé d'elle",
+    "artist": "Il était une fois",
+    "year": 1975,
     "genre": "Chanson & variété",
-    "story": "Comme d'habitude invites us into a world of a relationship’s collapse hidden inside routine. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 1967, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Claude François’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—a relationship’s collapse hidden inside routine—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "story": "J'ai encore rêvé d'elle invites us into a world of dream and longing carried by intertwined voices. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 1975, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Il était une fois’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—dream and longing carried by intertwined voices—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=Claude%20Fran%C3%A7ois%20Comme%20d'habitude%20official%20audio",
-      "spotify": "https://open.spotify.com/search/Claude%20Fran%C3%A7ois%20Comme%20d'habitude",
-      "appleMusic": "https://music.apple.com/us/search?term=Claude%20Fran%C3%A7ois%20Comme%20d'habitude"
+      "youtube": "https://www.youtube.com/results?search_query=Il%20%C3%A9tait%20une%20fois%20J'ai%20encore%20r%C3%AAv%C3%A9%20d'elle%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Il%20%C3%A9tait%20une%20fois%20J'ai%20encore%20r%C3%AAv%C3%A9%20d'elle",
+      "appleMusic": "https://music.apple.com/us/search?term=Il%20%C3%A9tait%20une%20fois%20J'ai%20encore%20r%C3%AAv%C3%A9%20d'elle"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Claude%20Fran%C3%A7ois%20Comme%20d'habitude&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Il%20%C3%A9tait%20une%20fois%20J'ai%20encore%20r%C3%AAv%C3%A9%20d'elle&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=Claude%20Fran%C3%A7ois%20Comme%20d'habitude&type=all"
+        "url": "https://www.discogs.com/search/?q=Il%20%C3%A9tait%20une%20fois%20J'ai%20encore%20r%C3%AAv%C3%A9%20d'elle&type=all"
       }
     ]
   }
