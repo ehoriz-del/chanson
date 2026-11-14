@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-13",
-  "index": 82,
+  "date": "2026-11-14",
+  "index": 83,
   "song": {
-    "id": 83,
-    "slug": "debut-de-soiree-nuit-de-folie",
-    "title": "Nuit de folie",
-    "artist": "Début de Soirée",
-    "year": 1988,
+    "id": 84,
+    "slug": "desireless-voyage-voyage",
+    "title": "Voyage, voyage",
+    "artist": "Desireless",
+    "year": 1986,
     "genre": "Chanson pop",
-    "story": "Nuit de folie invites us into a world of late-eighties dance-pop built for collective release. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 1988, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Début de Soirée’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—late-eighties dance-pop built for collective release—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "story": "Voyage, voyage invites us into a world of borderless travel imagined over cool electronic pop. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 1986, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Desireless’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—borderless travel imagined over cool electronic pop—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=D%C3%A9but%20de%20Soir%C3%A9e%20Nuit%20de%20folie%20official%20audio",
-      "spotify": "https://open.spotify.com/search/D%C3%A9but%20de%20Soir%C3%A9e%20Nuit%20de%20folie",
-      "appleMusic": "https://music.apple.com/us/search?term=D%C3%A9but%20de%20Soir%C3%A9e%20Nuit%20de%20folie"
+      "youtube": "https://www.youtube.com/results?search_query=Desireless%20Voyage%2C%20voyage%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Desireless%20Voyage%2C%20voyage",
+      "appleMusic": "https://music.apple.com/us/search?term=Desireless%20Voyage%2C%20voyage"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=D%C3%A9but%20de%20Soir%C3%A9e%20Nuit%20de%20folie&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Desireless%20Voyage%2C%20voyage&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=D%C3%A9but%20de%20Soir%C3%A9e%20Nuit%20de%20folie&type=all"
+        "url": "https://www.discogs.com/search/?q=Desireless%20Voyage%2C%20voyage&type=all"
       }
     ]
   }
