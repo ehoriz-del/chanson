@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-16",
-  "index": 85,
+  "date": "2026-11-17",
+  "index": 86,
   "song": {
-    "id": 86,
-    "slug": "telephone-cendrillon",
-    "title": "Cendrillon",
+    "id": 87,
+    "slug": "telephone-un-autre-monde",
+    "title": "Un autre monde",
     "artist": "Téléphone",
-    "year": 1982,
+    "year": 1984,
     "genre": "Chanson pop",
-    "story": "Cendrillon invites us into a world of a fairy tale rewritten as a harsh modern biography. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 1982, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "story": "Un autre monde invites us into a world of escape and social frustration in ringing rock. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 1984, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
     "listenFor": "Listen first to Téléphone’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—a fairy tale rewritten as a harsh modern biography—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "legacy": "The song endures because its central idea—escape and social frustration in ringing rock—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=T%C3%A9l%C3%A9phone%20Cendrillon%20official%20audio",
-      "spotify": "https://open.spotify.com/search/T%C3%A9l%C3%A9phone%20Cendrillon",
-      "appleMusic": "https://music.apple.com/us/search?term=T%C3%A9l%C3%A9phone%20Cendrillon"
+      "youtube": "https://www.youtube.com/results?search_query=T%C3%A9l%C3%A9phone%20Un%20autre%20monde%20official%20audio",
+      "spotify": "https://open.spotify.com/search/T%C3%A9l%C3%A9phone%20Un%20autre%20monde",
+      "appleMusic": "https://music.apple.com/us/search?term=T%C3%A9l%C3%A9phone%20Un%20autre%20monde"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=T%C3%A9l%C3%A9phone%20Cendrillon&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=T%C3%A9l%C3%A9phone%20Un%20autre%20monde&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=T%C3%A9l%C3%A9phone%20Cendrillon&type=all"
+        "url": "https://www.discogs.com/search/?q=T%C3%A9l%C3%A9phone%20Un%20autre%20monde&type=all"
       }
     ]
   }
