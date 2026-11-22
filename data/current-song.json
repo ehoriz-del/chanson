@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-21",
-  "index": 90,
+  "date": "2026-11-22",
+  "index": 91,
   "song": {
-    "id": 91,
-    "slug": "m-je-dis-aime",
-    "title": "Je dis aime",
-    "artist": "-M-",
-    "year": 1999,
-    "genre": "Chanson pop",
-    "story": "Je dis aime invites us into a world of playful language joining tenderness and guitar texture. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 1999, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to -M-’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—playful language joining tenderness and guitar texture—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "id": 92,
+    "slug": "alizee-moi-lolita",
+    "title": "Moi... Lolita",
+    "artist": "Alizée",
+    "year": 2000,
+    "genre": "Chanson contemporaine",
+    "story": "Moi... Lolita invites us into a world of persona, ambiguity, and polished turn-of-century pop. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 2000, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Alizée’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—persona, ambiguity, and polished turn-of-century pop—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=-M-%20Je%20dis%20aime%20official%20audio",
-      "spotify": "https://open.spotify.com/search/-M-%20Je%20dis%20aime",
-      "appleMusic": "https://music.apple.com/us/search?term=-M-%20Je%20dis%20aime"
+      "youtube": "https://www.youtube.com/results?search_query=Aliz%C3%A9e%20Moi...%20Lolita%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Aliz%C3%A9e%20Moi...%20Lolita",
+      "appleMusic": "https://music.apple.com/us/search?term=Aliz%C3%A9e%20Moi...%20Lolita"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=-M-%20Je%20dis%20aime&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Aliz%C3%A9e%20Moi...%20Lolita&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=-M-%20Je%20dis%20aime&type=all"
+        "url": "https://www.discogs.com/search/?q=Aliz%C3%A9e%20Moi...%20Lolita&type=all"
       }
     ]
   }
