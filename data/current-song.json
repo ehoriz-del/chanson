@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-22",
-  "index": 91,
+  "date": "2026-11-23",
+  "index": 92,
   "song": {
-    "id": 92,
-    "slug": "alizee-moi-lolita",
-    "title": "Moi... Lolita",
-    "artist": "Alizée",
-    "year": 2000,
+    "id": 93,
+    "slug": "kyo-derniere-danse",
+    "title": "Dernière danse",
+    "artist": "Kyo",
+    "year": 2003,
     "genre": "Chanson contemporaine",
-    "story": "Moi... Lolita invites us into a world of persona, ambiguity, and polished turn-of-century pop. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 2000, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Alizée’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—persona, ambiguity, and polished turn-of-century pop—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "story": "Dernière danse invites us into a world of separation rendered through melodic pop-rock melancholy. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 2003, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Kyo’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—separation rendered through melodic pop-rock melancholy—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=Aliz%C3%A9e%20Moi...%20Lolita%20official%20audio",
-      "spotify": "https://open.spotify.com/search/Aliz%C3%A9e%20Moi...%20Lolita",
-      "appleMusic": "https://music.apple.com/us/search?term=Aliz%C3%A9e%20Moi...%20Lolita"
+      "youtube": "https://www.youtube.com/results?search_query=Kyo%20Derni%C3%A8re%20danse%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Kyo%20Derni%C3%A8re%20danse",
+      "appleMusic": "https://music.apple.com/us/search?term=Kyo%20Derni%C3%A8re%20danse"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Aliz%C3%A9e%20Moi...%20Lolita&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Kyo%20Derni%C3%A8re%20danse&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=Aliz%C3%A9e%20Moi...%20Lolita&type=all"
+        "url": "https://www.discogs.com/search/?q=Kyo%20Derni%C3%A8re%20danse&type=all"
       }
     ]
   }
