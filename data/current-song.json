@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-23",
-  "index": 92,
+  "date": "2026-11-24",
+  "index": 93,
   "song": {
-    "id": 93,
-    "slug": "kyo-derniere-danse",
-    "title": "Dernière danse",
-    "artist": "Kyo",
-    "year": 2003,
+    "id": 94,
+    "slug": "zaz-je-veux",
+    "title": "Je veux",
+    "artist": "Zaz",
+    "year": 2010,
     "genre": "Chanson contemporaine",
-    "story": "Dernière danse invites us into a world of separation rendered through melodic pop-rock melancholy. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 2003, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Kyo’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—separation rendered through melodic pop-rock melancholy—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "story": "Je veux invites us into a world of joy and authenticity set against material status. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 2010, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Zaz’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—joy and authenticity set against material status—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=Kyo%20Derni%C3%A8re%20danse%20official%20audio",
-      "spotify": "https://open.spotify.com/search/Kyo%20Derni%C3%A8re%20danse",
-      "appleMusic": "https://music.apple.com/us/search?term=Kyo%20Derni%C3%A8re%20danse"
+      "youtube": "https://www.youtube.com/results?search_query=Zaz%20Je%20veux%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Zaz%20Je%20veux",
+      "appleMusic": "https://music.apple.com/us/search?term=Zaz%20Je%20veux"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Kyo%20Derni%C3%A8re%20danse&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Zaz%20Je%20veux&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=Kyo%20Derni%C3%A8re%20danse&type=all"
+        "url": "https://www.discogs.com/search/?q=Zaz%20Je%20veux&type=all"
       }
     ]
   }
