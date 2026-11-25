@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-24",
-  "index": 93,
+  "date": "2026-11-25",
+  "index": 94,
   "song": {
-    "id": 94,
-    "slug": "zaz-je-veux",
-    "title": "Je veux",
-    "artist": "Zaz",
-    "year": 2010,
+    "id": 95,
+    "slug": "stromae-formidable",
+    "title": "Formidable",
+    "artist": "Stromae",
+    "year": 2013,
     "genre": "Chanson contemporaine",
-    "story": "Je veux invites us into a world of joy and authenticity set against material status. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 2010, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Zaz’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—joy and authenticity set against material status—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "story": "Formidable invites us into a world of public unraveling staged with unsettling immediacy. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 2013, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Stromae’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—public unraveling staged with unsettling immediacy—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=Zaz%20Je%20veux%20official%20audio",
-      "spotify": "https://open.spotify.com/search/Zaz%20Je%20veux",
-      "appleMusic": "https://music.apple.com/us/search?term=Zaz%20Je%20veux"
+      "youtube": "https://www.youtube.com/results?search_query=Stromae%20Formidable%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Stromae%20Formidable",
+      "appleMusic": "https://music.apple.com/us/search?term=Stromae%20Formidable"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Zaz%20Je%20veux&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Stromae%20Formidable&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=Zaz%20Je%20veux&type=all"
+        "url": "https://www.discogs.com/search/?q=Stromae%20Formidable&type=all"
       }
     ]
   }
