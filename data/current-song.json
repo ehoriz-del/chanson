@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-25",
-  "index": 94,
+  "date": "2026-11-26",
+  "index": 95,
   "song": {
-    "id": 95,
-    "slug": "stromae-formidable",
-    "title": "Formidable",
-    "artist": "Stromae",
+    "id": 96,
+    "slug": "indila-derniere-danse",
+    "title": "Dernière danse",
+    "artist": "Indila",
     "year": 2013,
     "genre": "Chanson contemporaine",
-    "story": "Formidable invites us into a world of public unraveling staged with unsettling immediacy. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "story": "Dernière danse invites us into a world of solitude and endurance enlarged into cinematic pop. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
     "context": "Released in 2013, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Stromae’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—public unraveling staged with unsettling immediacy—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "listenFor": "Listen first to Indila’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—solitude and endurance enlarged into cinematic pop—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=Stromae%20Formidable%20official%20audio",
-      "spotify": "https://open.spotify.com/search/Stromae%20Formidable",
-      "appleMusic": "https://music.apple.com/us/search?term=Stromae%20Formidable"
+      "youtube": "https://www.youtube.com/results?search_query=Indila%20Derni%C3%A8re%20danse%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Indila%20Derni%C3%A8re%20danse",
+      "appleMusic": "https://music.apple.com/us/search?term=Indila%20Derni%C3%A8re%20danse"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Stromae%20Formidable&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Indila%20Derni%C3%A8re%20danse&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=Stromae%20Formidable&type=all"
+        "url": "https://www.discogs.com/search/?q=Indila%20Derni%C3%A8re%20danse&type=all"
       }
     ]
   }
