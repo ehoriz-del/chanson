@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-27",
-  "index": 96,
+  "date": "2026-11-28",
+  "index": 97,
   "song": {
-    "id": 97,
-    "slug": "louane-avenir",
-    "title": "Avenir",
-    "artist": "Louane",
-    "year": 2014,
+    "id": 98,
+    "slug": "angele-balance-ton-quoi",
+    "title": "Balance ton quoi",
+    "artist": "Angèle",
+    "year": 2019,
     "genre": "Chanson contemporaine",
-    "story": "Avenir invites us into a world of moving forward after disappointment with clear-eyed resolve. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
-    "context": "Released in 2014, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
-    "listenFor": "Listen first to Louane’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
-    "legacy": "The song endures because its central idea—moving forward after disappointment with clear-eyed resolve—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
+    "story": "Balance ton quoi invites us into a world of sexism answered with wit, pop polish, and directness. Rather than treating the song as a museum piece, today’s note considers how its words, performance, and arrangement work together.",
+    "context": "Released in 2019, the recording belongs to a changing French-language music landscape. Its period details matter, but the emotional situation remains immediate enough to travel across generations.",
+    "listenFor": "Listen first to Angèle’s phrasing: where the voice presses forward, where it pauses, and how the accompaniment changes the emotional temperature. A second hearing often reveals the song’s careful balance between narrative and refrain.",
+    "legacy": "The song endures because its central idea—sexism answered with wit, pop polish, and directness—is specific enough to feel lived-in and open enough for new listeners to recognize themselves in it.",
     "links": {
-      "youtube": "https://www.youtube.com/results?search_query=Louane%20Avenir%20official%20audio",
-      "spotify": "https://open.spotify.com/search/Louane%20Avenir",
-      "appleMusic": "https://music.apple.com/us/search?term=Louane%20Avenir"
+      "youtube": "https://www.youtube.com/results?search_query=Ang%C3%A8le%20Balance%20ton%20quoi%20official%20audio",
+      "spotify": "https://open.spotify.com/search/Ang%C3%A8le%20Balance%20ton%20quoi",
+      "appleMusic": "https://music.apple.com/us/search?term=Ang%C3%A8le%20Balance%20ton%20quoi"
     },
     "sources": [
       {
         "label": "BnF Catalogue",
-        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Louane%20Avenir&critereRecherche=0&depart=0&facetteModifiee=ok"
+        "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Ang%C3%A8le%20Balance%20ton%20quoi&critereRecherche=0&depart=0&facetteModifiee=ok"
       },
       {
         "label": "Discography search",
-        "url": "https://www.discogs.com/search/?q=Louane%20Avenir&type=all"
+        "url": "https://www.discogs.com/search/?q=Ang%C3%A8le%20Balance%20ton%20quoi&type=all"
       }
     ]
   }
